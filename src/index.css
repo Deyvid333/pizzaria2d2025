@@ -28,14 +28,14 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color:#836FFF;
-  color:#8A2BE2;
+  background-color:#0084ff;
+  color:#7f36c4;
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  color: #8A2BE2); 
+  color: #1fb458); 
 }
 
 button {
