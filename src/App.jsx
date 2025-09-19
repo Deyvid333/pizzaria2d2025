@@ -1,4 +1,4 @@
-import Produtos from ".pages/Produtos"
+import Produtos from "./pages/produtos"
 
 const App = () => {
 
